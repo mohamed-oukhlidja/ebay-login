@@ -1,2 +1,2 @@
 # Ebay log in page 
-it's a sample login page loooks like ebay's login page 
+It's a sample login page looks like ebay's login page 
